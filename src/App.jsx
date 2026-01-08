@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import { useEffect, useState } from "react";
 import axios from "axios";
 
@@ -160,6 +161,19 @@ function App() {
           </div>
         ))}
       </div>
+=======
+import { Button } from "@/components/ui/button";
+import ContextApi from "./context/ContextApi";
+import Navbar from "./Dashboard/Navbar";
+
+function App() {
+  return (
+    <div>
+      {/* <Button>Click me</Button> */}
+      <Navbar />
+      <main className="p-6">Content here</main>
+      {/* <ContextApi /> */}
+>>>>>>> origin/main
     </div>
   );
 }

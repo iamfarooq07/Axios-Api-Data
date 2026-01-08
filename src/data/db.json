@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "messages": [
     {
       "id": "2",
@@ -23,6 +24,23 @@
       "name": "Muhammad Junaid",
       "message": "Hello Muhammad Junaid",
       "time": "03:00 PM"
+=======
+  "users": [
+    {
+      "id": "6a14",
+      "name": "Sara",
+      "email": "sara@yopmail.com"
+    },
+    {
+      "id": "3019",
+      "name": "Muhammad",
+      "email": "muhammad@example.com"
+    },
+    {
+      "id": "c8da",
+      "name": "Farooq ",
+      "email": "farooq@gmail.com"
+>>>>>>> origin/main
     }
   ]
 }
