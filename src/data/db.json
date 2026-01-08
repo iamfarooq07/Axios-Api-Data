@@ -1,0 +1,28 @@
+{
+  "messages": [
+    {
+      "id": "2",
+      "name": "Farooq",
+      "message": "Hello!",
+      "time": "10:30 AM"
+    },
+    {
+      "id": "408a",
+      "name": "Abdul Kabeer",
+      "message": "Hey Abdul Kabeer",
+      "time": "3"
+    },
+    {
+      "id": "a488",
+      "name": "Ruhaan",
+      "message": "hello Ruhaan",
+      "time": "12:00 Am"
+    },
+    {
+      "id": "35ac",
+      "name": "Muhammad Junaid",
+      "message": "Hello Muhammad Junaid",
+      "time": "03:00 PM"
+    }
+  ]
+}
